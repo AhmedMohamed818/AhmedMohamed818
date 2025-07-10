@@ -43,6 +43,15 @@ A pharmacy system for inventory and operations management
 - 👨‍💻 Role: Team Leader  
 - 🎯 Features: Employee role control, medicine tracking, operational streamlining  
 - 🛠️ Stack: PHP, Laravel, MySQL
+###	E-Commerce Platform (Noon Clone Api)
+Designed and developed a full-stack ASP.NET Core web application simulating an e-commerce experience similar to Noon,
+including product browsing, cart management, order processing, Utilized layered architecture and SQL Server for robust backend functionality.
+- 🛠️ Stack: C#, Asp.Net, MySQL
+
+###	HR Management System (MVC Architecture)
+Built a web application using ASP.NET MVC to manage staff and departments. Included an Admin Panel, Employees Page, and Departments Page with
+full CRUD functionality. Applied clean separation of concerns and SQL integration for data handling.
+- 🛠️ Stack: C#, Asp.Net, MySQL
 
 ---
 
